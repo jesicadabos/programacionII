@@ -1,0 +1,36 @@
+body{
+    background-image: radial-gradient(circle at 37.89% 37.89%, #b0d58f 0, #a6d795 5%, #9bd99d 10%, #90daa5 15%, #84dbad 20%, #79dcb6 25%, #6eddc0 30%, #63ddc9 35%, #58ddd3 40%, #4fdddc 45%, #48dde5 50%, #44dcee 55%, #45dbf5 60%, #4adafd 65%, #53d9ff 70%, #5fd7ff 75%, #6cd5ff 80%, #7ad2ff 85%, #89d0ff 90%, #98cdff 95%, #a6caff 100%);
+}
+
+
+header{
+    display: flex;
+    flex-direction:row;
+
+}
+
+img{
+    width:300px;
+    height:100px;
+    border:3px solid rgb(65, 60, 95);
+    border-radius:22px;
+    float:left ;
+}
+h1{
+    text-align: center;
+
+}
+footer {
+    background-color: rgb(123, 177, 176);
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: rgb(0, 6, 7);
+    display: flex;
+    
+   
+  }
+  h3{
+    text-align: center;
+  }
